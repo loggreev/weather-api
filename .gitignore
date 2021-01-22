@@ -1,0 +1,5 @@
+.vscode/
+*.ini
+test.py
+__pycache__/
+*.json
